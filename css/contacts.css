@@ -1,0 +1,56 @@
+
+.cont-form{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.hit-h2 {
+    text-align: center;
+    font-size: 30px;
+}
+.container-form-flex {
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-action-h3 {
+}
+.form {
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.input {
+    height: 50px;
+    width: 100%;
+}
+
+.submit-button {
+    width: 100%;
+    cursor: pointer;
+}
+
+.tel-cont{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-place{
+    text-align: center;
+}
+
+
+@media screen and (max-width: 1040px ){
+
+    .tel-cont {
+        padding-top: 50px;
+        display: flex;
+        gap: 30px;
+        flex-direction: column;
+        align-items: center;
+    } 
+}
