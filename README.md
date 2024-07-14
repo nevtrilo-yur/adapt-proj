@@ -1,1 +1,1 @@
-https://nevtrilo-yur.github.io/repo-test/
+https://nevtrilo-yur.github.io/adapt-proj/
